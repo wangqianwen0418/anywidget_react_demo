@@ -5,13 +5,14 @@ I hope this demo could be helpful.
 
 ### How to run it
 
-- **Install**
+- **Install:**
   
   Install all the necessary node modules by running the `npm install` command.
 
   Only need to do this step once. 
 
-- **Convert to ESM**
+- **Convert to ESM:**
+  
   To convert your react components into ESM files and store them in the `bundle` folder, you can run
   `npm run build` (which actually runs `./node_modules/.bin/esbuild ./src/widget.tsx --format=esm --outdir=./bundle --bundle`) .
   
