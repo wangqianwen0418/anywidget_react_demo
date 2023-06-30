@@ -1,5 +1,7 @@
 # anywidget_react_demo
 
+Showcase how to incorporate React component in a jupyter notebook.
+
 I have been exploring [AnyWidget](https://github.com/manzt/anywidget) and saw some people asked how to use React Component with it.
 I hope this demo could be helpful.
 
@@ -31,4 +33,6 @@ I hope this demo could be helpful.
   m = myWidget()
   ```
 
-  <img width="645" alt="image" src="https://github.com/wangqianwen0418/anywidget_react_demo/assets/19774198/262b68ad-0683-4308-878c-b41e22635a89">
+<img height="245" alt="image" src="https://github.com/wangqianwen0418/anywidget_react_demo/assets/19774198/6ce3eb61-d818-41a4-a86d-cabe4cc6ea32">
+
+  <img height="245" alt="image" src="https://github.com/wangqianwen0418/anywidget_react_demo/assets/19774198/262b68ad-0683-4308-878c-b41e22635a89">
